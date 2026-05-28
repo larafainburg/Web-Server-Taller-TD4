@@ -61,6 +61,3 @@ HTTP/1.1 200 OK
 ```http
 HTTP/1.1 404 Not Found
 ```
-
-Universidad Torcuato Di Tella
-Segundo cuatrimestre 2025
